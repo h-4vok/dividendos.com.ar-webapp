@@ -1,0 +1,1 @@
+xcopy E:\src\dividendos.com.ar-webapp\build E:\wwwroot\dividendos.com.ar /e /y

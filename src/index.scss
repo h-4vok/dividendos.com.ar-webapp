@@ -1,0 +1,19 @@
+$link-color: #fff;
+
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+
+  * {
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas;
+}
